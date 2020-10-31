@@ -3,7 +3,10 @@
 [![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2020/09/JPHACKS2020_ogp.jpg)](https://www.youtube.com/watch?v=G5rULR53uMk)
 
 ## 製品概要
+オフライン環境で共同作業が出来ない課題を解決！
 ### 背景(製品開発のきっかけ、課題等）
+*zoomなどのリモート会議は、通常のオフラインでの会議より疲れる
+*原因の一つとして、背景が変わらないことが挙げられる
 ### 製品説明（具体的な製品の説明）
 ### 特長
 ####1. 特長1
@@ -23,8 +26,8 @@
 * 
 
 #### フレームワーク・ライブラリ・モジュール
-* 
-* 
+* Nuxt.js
+* Vuetify
 
 #### デバイス
 * 
